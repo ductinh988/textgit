@@ -2,10 +2,5 @@ button {
     background: red;
     color: green;
     width: 100px;
-    height: 100px;
-    border-radius: 20;
-    -webkit-border-radius: 20;
-    -moz-border-radius: 20;
-    -ms-border-radius: 20;
-    -o-border-radius: 20;
+    height: 500px;
 }
